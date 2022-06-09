@@ -17,7 +17,7 @@ Then paste the below command inside the .zshrc file
 ```sh
  alias leetcode="python3 ~/yourOwnPath/getDaily.py"
 ```
-Finally use source command to activate the .zshrc file
+Finally use the source command to activate the .zshrc file
 ```sh
  source ./zshrc
 ```
