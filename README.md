@@ -22,7 +22,7 @@ Finally use source command to activate the .zshrc file
  source ./zshrc
 ```
 
-Reopen the terminal and you're already to go
+Reopen the terminal and you're ready to go
  
 If you're not using chrome as your default browser,Please change the command variable to your default browser
 
